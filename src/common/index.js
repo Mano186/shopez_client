@@ -1,4 +1,4 @@
-const backendDomin = "https://shopez-c1ee.onrender.com"
+const backendDomin = "https://shop-ez-server.vercel.app"
 
 const SummaryApi = {
     signUP : {
